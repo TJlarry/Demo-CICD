@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <div> Deploying this app to Azure service</div>
+      <div> Deploying a new enhancement to Azure service</div>
     </div>
   );
 }
