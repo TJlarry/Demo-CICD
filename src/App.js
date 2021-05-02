@@ -9,6 +9,7 @@ function App() {
       <div>This is another update from the real Karolina</div>
       <div>Kadar was here</div>
       <div>This is a code from Rail</div>
+      <div>Code by Tina</div>
     </div>
   );
 }
