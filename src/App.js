@@ -10,6 +10,7 @@ function App() {
       <div>Kadar was here</div>
       <div>This is a code from Rail</div>
       <div>Code by Tina</div>
+      <div>This update is brought to you by Luke.</div>
     </div>
   );
 }
