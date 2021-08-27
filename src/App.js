@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <div>This is a code change from Naresh</div>
-      <div>Module 3 Assignment - Cloud Deployment with Azure | Edwin Rico Carandang</div>
+      <div>Module 3 Assignment - Cloud Deployment with Azure | E.R. Carandang</div>
     </div>
   );
 }
