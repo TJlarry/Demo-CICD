@@ -7,6 +7,7 @@ function App() {
       <div>This is a code change from Caleb Penman</div>
       <div>Module 3 Assignment - Cloud Deployment with Azure | E.R. Carandang</div>
       <div>This is a code change from Michael</div>
+      <div> This is change from Edmond</div>
     </div>
   );
 }
