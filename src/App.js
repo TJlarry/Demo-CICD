@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <div>This is a code change from Delphine Nwawuzie</div>
       <div>Code added by Aaron Tumambing</div>
+      <div>Code added by Adam Pitcher</div>
     </div>
   );
 }
